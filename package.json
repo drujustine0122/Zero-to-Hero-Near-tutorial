@@ -1,0 +1,20 @@
+{
+  "name": "zerotoheroneartutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "build.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://snowdev1205@github.com/snowdev1205/Zero-to-Hero-Near-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowdev1205/Zero-to-Hero-Near-tutorial/issues"
+  },
+  "homepage": "https://github.com/snowdev1205/Zero-to-Hero-Near-tutorial#readme"
+}
